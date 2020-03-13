@@ -1,0 +1,26 @@
+{
+    "ordered":
+    [{"OrganizationName" : {
+            "fieldRequired" : true,
+            "requiredValue" : "John J. Burns Library, Boston College"
+        }},
+    {"AccessionNumber" : {
+            "fieldRequired" : true
+        }},
+    {"AccessionTitle" : {
+             "fieldRequired" : true
+        }},
+    {"AccessioningArchivistName" : {
+            "fieldRequired" : true
+        }},
+    {"ContentTransferMethod" : {
+            "fieldRequired" : false
+        }},
+    {"ContentCreation" : {
+            "fieldRequired" : false
+        }},
+    {"ContentModification" : {
+            "fieldRequired" : true
+        }}
+   ] 
+}
